@@ -51,7 +51,6 @@ Microsoft sees all the big companies creating original video content and they wa
       style="display: inline-block; margin: 0 auto; max-width: 300px">
    
    #### Explore to find meaningful data
-      image.png
    <img
       src="https://github.com/Kelta153/Phase-1-Project/blob/main/Project_images/Genres.png"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
