@@ -25,7 +25,7 @@ Microsoft sees all the big companies creating original video content and they wa
    who made them(studio) ? 
    what were the budgets to profit comparison over studio and years?
 
-   #### Sart by understanding the content in the different Dataset provides
+   #### Sart by understanding the content in the different Datasets provided
   
    import the pandas library, numpy and matplotlib as the analysis uses the following libraries to explore the data 
 
